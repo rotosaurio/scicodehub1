@@ -8,7 +8,7 @@ const Sidebar = () => {
       className="fixed top-0 right-0 z-00 w-64 h-screen  transition-transform translate-x-o bg-gray 800 sm:translate-x-0 bg-gray-800 border-gray-700"
       aria-label="Sidebar"
     >
-      <div className="h-full px-3 pb-4 overflow-y-auto bg-white bg-green-700">
+      <div className="h-full px-3 pb-4 overflow-y-auto bg-green-700">
         <ul className="space-y-2 font-medium">
         <li>
             <a href="#" class="flex items-center p-1 text-gray-900 rounded-lg text-white hover:text-gray-900 hover:bg-lime-300 hover:bg-lime-300 group">
