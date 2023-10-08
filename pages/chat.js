@@ -65,7 +65,7 @@ export default function Home() {
 
 </div>
 <div class="w-1/4 bg-white p-4">
-            <h2 class="text-lg font-semibold mb-2">Idioma del chat</h2>
+            <h2 class="text-lg font-semibold mb-2">Chat idiom</h2>
             <select class="w-full p-2 border rounded-lg">
                 <option value="ingles">Inglés</option>
                 <option value="espanol">Español</option>

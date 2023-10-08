@@ -13,8 +13,7 @@ import SearchBar from '@/components/searchbar'
 <div class="max-w-6xl">
  <div class=" text-center  text-white text-4xl">
  <SearchBar></SearchBar>
-Resultados
- </div>
+Results </div>
 
  <div class="  text-center text-white text-xl pb-10">   
  Open Source Science Initiative
