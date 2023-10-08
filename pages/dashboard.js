@@ -10,8 +10,9 @@ export default function Home() {
 <Sidebar></Sidebar>
 <div class="pl-10 border-t-4  border-black ">
 <div class="max-w-6xl">
- <div class=" text-center  text-white text-4xl">
-IN DEVELOPMENT  </div>
+ <div class="  pb-40 text-center  text-white text-4xl">
+IN DEVELOPMENT   </div>
+  
     </div>  
 </div>
 <Footer></Footer>
