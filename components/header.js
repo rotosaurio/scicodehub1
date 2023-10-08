@@ -23,7 +23,7 @@ const Header = () => {
           <a className="inline-block px-5 py-2 text-2xl text-white no-underline hover:text-blue-700 hover:-bg-gray-300 hover:-translate transition-transform transform origin-center hover:-skew-y-3 hover:bg-lime-300 " href="/devs">Developers</a>
         </div>
         <div className="flex ml-auto hover:scale-110 transition-transform">
-          <a className="inline-block px-5 py-2 text-2xl text-white no-underline hover:text-blue-700 hover:-bg-gray-300 hover:-translate transition-transform transform origin-center hover:-skew-y-3 hover:bg-lime-300 " href="/devs">Donations</a>
+          <a className="inline-block px-5 py-2 text-2xl text-white no-underline hover:text-blue-700 hover:-bg-gray-300 hover:-translate transition-transform transform origin-center hover:-skew-y-3 hover:bg-lime-300 " href="/donaciones">Donations</a>
         </div>
 
      
