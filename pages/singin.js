@@ -31,7 +31,7 @@ export default function Home() {
       </button>   
          </form>
       <a href="/singup">if you want registrer push here</a>
-      
+       
     </div>
 
     
