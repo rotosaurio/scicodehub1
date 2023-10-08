@@ -7,7 +7,7 @@ const Header = () => {
     <div className="flex items-center space-x-20">
       <a href="/">
         <img
-          src="/logo.png" // Reemplaza con la ruta de tu imagen de inicio
+          src="/Logo.png" // Reemplaza con la ruta de tu imagen de inicio
           alt="Logo"
           className="h-20 w-35"
         />
